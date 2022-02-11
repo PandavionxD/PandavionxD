@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hola👋
+# Bienvenido a mi GitHub!! 👋  :fa-linux:~~~~
 
-<!--
-**PandavionxD/PandavionxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
+*Me encanta Linux, y la programacion =)*
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Angular
+- Sass
 
-Here are some ideas to get you started:
+## Visitame en mi Sitio web!!!
+[MiWebSite](http://pandavionxD.github.io/Blog "MiWebSite")
+------------
+2022-02-10 20:48:53 Jueves
+------------
+##### Mi Frase Favorita:
+> Ella era un sueño, pero los sueños tienen la mala costumbre de desaparecer cuando no lo estas mirando...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
