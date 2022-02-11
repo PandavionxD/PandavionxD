@@ -1,7 +1,5 @@
-### Hola👋
-# Bienvenido a mi GitHub!! 👋  :fa-linux:~~~~
-
-------------
+# Hola👋
+# Bienvenido a mi GitHub!! 👋 
 *Me encanta Linux, y la programacion =)*
 - HTML
 - CSS
