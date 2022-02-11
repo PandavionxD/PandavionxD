@@ -7,6 +7,7 @@
 - TypeScript
 - Angular
 - Sass
+- Python
 
 ## Visitame en mi Sitio web!!!
 [MiWebSite](http://pandavionxD.github.io/Blog "MiWebSite")
