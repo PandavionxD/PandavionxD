@@ -5,12 +5,13 @@
 - CSS
 - JavaScript
 - TypeScript
+- React
 - Angular
 - Sass
 - Python
 
 ## Visitame en mi Sitio web!!!
-[MiWebSite](http://pandavionxD.github.io/Blog "MiWebSite")
+[MiWebSite](https://aldari-dev.web.app/)
 ------------
 2022-02-10 20:48:53 Jueves
 ------------
